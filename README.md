@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: a missing closing tag. The `bug.html` file contains the erroneous code, while `bugSolution.html` provides the corrected version.  The error leads to unexpected layout issues and may impact other parts of the webpage.
